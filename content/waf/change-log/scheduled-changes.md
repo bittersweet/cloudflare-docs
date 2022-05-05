@@ -24,33 +24,23 @@ layout: list
   </thead>
   <tbody>
     <tr>
-      <td>2022-04-19</td>
-      <td>2022-04-25</td>
+      <td>2022-05-03</td>
+      <td>2022-05-09</td>
       <td>Cloudflare Specials</td>
-      <td>...61337861</td>
-      <td>100056_BETA</td>
-      <td>Apache Struts - Code Injection - CVE:CVE-2017-9791 - Beta</td>
-      <td>Disable</td>
+      <td>...02a9ee96</td>
+      <td>100528</td>
+      <td>Code Injection - CVE:CVE-2022-29078</td>
+      <td>N/A</td>
       <td>Block</td>
     </tr>
-    <tr>
-      <td>2022-04-19</td>
-      <td>2022-04-25</td>
+        <tr>
+      <td>2022-05-03</td>
+      <td>2022-05-09</td>
       <td>Cloudflare Specials</td>
-      <td>...bb70a463</td>
-      <td>100527</td>
-      <td>Apache Struts - CVE:CVE-2021-31805</td>
-      <td>Disable</td>
-      <td>Block</td>
-    </tr>
-    <tr>
-      <td>2022-04-19</td>
-      <td>2022-04-25</td>
-      <td>Cloudflare Specials</td>
-      <td>...a24f08b7</td>
-      <td>100526</td>
-      <td>VMware vCenter - CVE:CVE-2022-22954</td>
-      <td>Disable</td>
+      <td>...422313d0</td>
+      <td>100529</td>
+      <td>VMware vCenter - CVE:CVE-2021-22054</td>
+      <td>N/A</td>
       <td>Block</td>
     </tr>
   </tbody>
